@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+*-credentials.json
+client-secret*.txt
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Scratch
+scratch/
+tmp/
+*.local.md
