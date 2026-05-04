@@ -66,6 +66,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-weekly-kpi-briefing)** · [Architecture](https://github.com/MinaSaad1/n8n-weekly-kpi-briefing/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-weekly-kpi-briefing/blob/main/docs/SECURITY.md) · [Setup](https://github.com/MinaSaad1/n8n-weekly-kpi-briefing/blob/main/docs/SETUP.md)
 
+![Weekly KPI Briefing cover](https://raw.githubusercontent.com/MinaSaad1/n8n-weekly-kpi-briefing/main/screenshots/cover.png)
+
 ---
 
 ### 2️⃣ Lead Enrichment
@@ -77,6 +79,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 **Components:** form webhook · field extraction · Claude qualification chain · CRM write · Slack notify
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-lead-enrichment)** · [Architecture](https://github.com/MinaSaad1/n8n-lead-enrichment/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-lead-enrichment/blob/main/docs/SECURITY.md)
+
+![Lead Enrichment cover](https://raw.githubusercontent.com/MinaSaad1/n8n-lead-enrichment/main/screenshots/cover.png)
 
 ---
 
@@ -90,6 +94,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-email-triage)** · [Architecture](https://github.com/MinaSaad1/n8n-email-triage/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-email-triage/blob/main/docs/SECURITY.md)
 
+![Email Triage cover](https://raw.githubusercontent.com/MinaSaad1/n8n-email-triage/main/screenshots/cover.png)
+
 ---
 
 ### 4️⃣ Content Repurposing
@@ -101,6 +107,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 **Components:** URL ingestion · Jina reader extraction · single Claude call returning 3 formats · Docs append · Slack notify
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-content-repurposing)** · [Architecture](https://github.com/MinaSaad1/n8n-content-repurposing/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-content-repurposing/blob/main/docs/SECURITY.md)
+
+![Content Repurposing cover](https://raw.githubusercontent.com/MinaSaad1/n8n-content-repurposing/main/screenshots/cover.png)
 
 ---
 
@@ -114,6 +122,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-meeting-notes-to-tasks)** · [Architecture](https://github.com/MinaSaad1/n8n-meeting-notes-to-tasks/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-meeting-notes-to-tasks/blob/main/docs/SECURITY.md)
 
+![Meeting Notes to Tasks cover](https://raw.githubusercontent.com/MinaSaad1/n8n-meeting-notes-to-tasks/main/screenshots/cover.png)
+
 ---
 
 ### 6️⃣ Review Monitoring
@@ -125,6 +135,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 **Components:** multi-source review search · sentiment classification · negative-first alerting · response drafting
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-review-monitoring)** · [Architecture](https://github.com/MinaSaad1/n8n-review-monitoring/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-review-monitoring/blob/main/docs/SECURITY.md) · [Setup](https://github.com/MinaSaad1/n8n-review-monitoring/blob/main/docs/SETUP.md)
+
+![Review Monitoring cover](https://raw.githubusercontent.com/MinaSaad1/n8n-review-monitoring/main/screenshots/cover.png)
 
 ---
 
@@ -138,6 +150,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-invoice-pdf-to-sheets)** · [Architecture](https://github.com/MinaSaad1/n8n-invoice-pdf-to-sheets/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-invoice-pdf-to-sheets/blob/main/docs/SECURITY.md) · [Setup](https://github.com/MinaSaad1/n8n-invoice-pdf-to-sheets/blob/main/docs/SETUP.md)
 
+![Invoice PDF to Sheets cover](https://raw.githubusercontent.com/MinaSaad1/n8n-invoice-pdf-to-sheets/main/screenshots/cover.png)
+
 ---
 
 ### 8️⃣ AI-Qualified Booking
@@ -149,6 +163,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 **Components:** intake form ingestion · ICP scoring against your criteria · routing into qualified / borderline / not-a-fit · email per path · CRM logging
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-ai-qualified-booking)** · [Architecture](https://github.com/MinaSaad1/n8n-ai-qualified-booking/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-ai-qualified-booking/blob/main/docs/SECURITY.md) · [Setup](https://github.com/MinaSaad1/n8n-ai-qualified-booking/blob/main/docs/SETUP.md)
+
+![AI-Qualified Booking cover](https://raw.githubusercontent.com/MinaSaad1/n8n-ai-qualified-booking/main/screenshots/cover.png)
 
 ---
 
@@ -162,6 +178,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-social-mention-digest)** · [Architecture](https://github.com/MinaSaad1/n8n-social-mention-digest/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-social-mention-digest/blob/main/docs/SECURITY.md) · [Setup](https://github.com/MinaSaad1/n8n-social-mention-digest/blob/main/docs/SETUP.md)
 
+![Social Mention Digest cover](https://raw.githubusercontent.com/MinaSaad1/n8n-social-mention-digest/main/screenshots/cover.png)
+
 ---
 
 ### 🔟 Customer Onboarding Flow
@@ -173,6 +191,8 @@ Ten kits for operators who want automation without writing code. Each repo ships
 **Components:** customer event ingestion · timed sequence · friction survey branching · NPS routing (promoter / detractor)
 
 **[→ Open repo](https://github.com/MinaSaad1/n8n-customer-onboarding)** · [Architecture](https://github.com/MinaSaad1/n8n-customer-onboarding/blob/main/docs/ARCHITECTURE.md) · [Security](https://github.com/MinaSaad1/n8n-customer-onboarding/blob/main/docs/SECURITY.md) · [Setup](https://github.com/MinaSaad1/n8n-customer-onboarding/blob/main/docs/SETUP.md)
+
+![Customer Onboarding cover](https://raw.githubusercontent.com/MinaSaad1/n8n-customer-onboarding/main/screenshots/cover.png)
 
 ---
 
